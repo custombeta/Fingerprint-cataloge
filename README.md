@@ -20,5 +20,7 @@
 `TG: @custombeta` - все вопросы, баги, предложения пишите сюда.
 
 ## Скриншоты
+![Screenshot_2025-05-16-23-39-50-245_com rifsxd ksunext-edit](https://github.com/user-attachments/assets/2ee83fc7-b122-4b7c-8a8f-7158a0131a81)
+![Screenshot_2025-05-16-23-39-58-860_lockscreen-edit](https://github.com/user-attachments/assets/faa27282-f3ec-40fa-9bf9-489edd24e494)
 
 
