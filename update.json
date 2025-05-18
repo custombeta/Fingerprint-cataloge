@@ -1,6 +1,6 @@
 {
-  "version": "v1",
+  "version": "v1.1",
   "versionCode":1,
-  "zipUrl": "https://github.com/custombeta/Fingerprint-cataloge/releases/download/V1/FingerprintCataloge-V1.zip",
+  "zipUrl": "https://github.com/custombeta/Fingerprint-cataloge/releases/download/V1.1/FingerprintCataloge-V1.1.zip",
   "changelog": "https://raw.githubusercontent.com/custombeta/Fingerprint-cataloge/main/changelog.md"
 }
