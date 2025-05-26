@@ -1,3 +1,3 @@
 Telegram: `@custombeta`
 -------------------------------------------
-- Поддержка `Magisk` (Beta)
+- Fix `Magisk`
