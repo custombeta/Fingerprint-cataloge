@@ -1,5 +1,6 @@
 ## Языки
-Русский | [`English`](https://github.com/custombeta/Wallpaper-for-HyperOS-1-2/main/README-EN.md)
+Русский | [English](https://github.com/custombeta/Wallpaper-for-HyperOS-1-2/main/README-EN.md)
+
 `Fingerprint Cataloge` — это модуль со встроенным веб-интерфейсом для управления кастомными оверлеями отпечатков пальца.
 
 ## Поддерживаемые менеджеры
