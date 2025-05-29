@@ -1,7 +1,7 @@
 ## Language
 English | [Русский](https://github.com/custombeta/Fingerprint-cataloge)
 
-`Fingerprint Catalog` is a module with a built-in web interface for managing custom fingerprint overlays.  
+`Fingerprint Catalog` - is a module with a built-in web interface for managing custom fingerprint overlays.  
 
 ## **Supported Managers**  
 - `Magisk` (may contain bugs)  
