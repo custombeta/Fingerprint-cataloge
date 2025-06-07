@@ -1,8 +1,10 @@
 ## Fingerprint Cataloge
-[![Latest Release](https://img.shields.io/badge/%D0%A0%D0%B5%D0%BB%D0%B8%D0%B7-1.7-red?logo=GitHub&logoColor=White)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/?label=Релиз&logo=GitHub)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/duchamppower)
 
-`Fingerprint Cataloge` — это модуль со встроенным веб-интерфейсом для управления кастомными оверлеями отпечатков пальца.
+[![Релиз](https://img.shields.io/github/v/release/custombeta/Fingerprint-cataloge?label=Релиз&color=blue)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
+
+Это модуль со встроенным веб-интерфейсом для управления кастомными оверлеями отпечатков пальца.
 
 ## Поддерживаемые менеджеры
 - `Magisk` (возможны баги)
