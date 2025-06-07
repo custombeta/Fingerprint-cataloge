@@ -1,7 +1,7 @@
 ## Fingerprint Cataloge
 <img src="/assets/fingerprint-logo.png" style="width: 130px;" alt="logo">
 
-[![Latest Release](https://img.shields.io/github/v/release/custombeta/Fingerprint-cataloge?label=Релиз&color=blue&logo=github)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
+[![Latest Release](https://img.shields.io/github/v/release/custombeta/Fingerprint-cataloge?label=Релиз&color=red&logo=github)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/duchamppower)
 
 Модуль со встроенным веб-интерфейсом для управления кастомными оверлеями отпечатков пальца.
