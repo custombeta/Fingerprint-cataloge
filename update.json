@@ -2,4 +2,5 @@
   "version": "1.0.1",
   "versionCode":101,
   "apkUrl": "https://github.com/custombeta/Fingerprint-cataloge/releases/download/V1.7/FingerprintCataloge-V1.7.zip"
+  "changelog": "https://raw.githubusercontent.com/custombeta/Fingerprint-cataloge/main/changelog.md"
 }
