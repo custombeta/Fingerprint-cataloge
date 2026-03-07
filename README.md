@@ -1,32 +1,56 @@
-## Fingerprint Cataloge
-<img src="/assets/fingerprint-logo.png" style="width: 130px;" alt="logo">
+# Fingerprint Cataloge
 
-[![Latest Release](https://img.shields.io/github/v/release/custombeta/Fingerprint-cataloge?label=Релиз&color=red&logo=github)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white)](https://t.me/duchamppower)
+<img src="/assets/fingerprint-logo.png" width="130" alt="logo">
 
-Модуль со встроенным веб-интерфейсом для управления кастомными оверлеями отпечатков пальца.
+[![Latest Release](https://img.shields.io/github/v/release/custombeta/Fingerprint-cataloge?label=Release&color=blue&logo=github)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
+[![LSPosed](https://img.shields.io/badge/LSPosed-Module-orange?logo=android&logoColor=white)](https://github.com/LSPosed/LSPosed)
+[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?logo=Telegram&logoColor=white)](https://t.me/duchamppower)
 
-## Поддерживаемые менеджеры
-- `Magisk`
-- `KernelSU`
-- `KernelSU Next`
-- `Остальные`
+Xposed модуль для MIUI/HyperOS с приложением-компаньоном для управления кастомными иконками сканера отпечатков пальца. Позволяет загружать, импортировать и применять собственные иконки отпечатка без перепрошивки.
+
+---
 
 ## Совместимость
-- `HyperOS 1 | 2 | 3`
 
-## Инструкция
-`KSU:` Откройте `WebUI` интерфейс нажав на значок странички в блоке модуля.
+| | Требования |
+|---|---|
+| `LSPosed`  | `API 82+` |
+| `Прошивка`  | `HyperOS 1+` |
+| `Android версия` | `14+ (API 34+)` |
 
-`MAGISK:` Откройте `WebUI` нажав на кнопку `action` в блоке модуля, если Вы видите Toast «Please grant root», то Вам следует выдать рут KsuWebUIStandalone
+---
 
-## Контакты
-Telegram: `@custombeta` - все вопросы, баги, предложения пишите сюда.
+## Установка
 
-## Предупреждение
->[!CAUTION]
->Не пытайте использовать свои `overlay` для отключения и включения их в `WebView`, модуль работает только с встроенными `overlay`
+1. Установите APK из [![Release](https://img.shields.io/github/v/release/custombeta/Fingerprint-cataloge?label=Release&color=blue&logo=github)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
+2. Активируйте модуль в LSPosed
+
+---
+
+## Возможности
+
+- `Встроенная библиотека иконок и анимаций отпечатков`
+- `Создание новых иконок из .webp изображений`
+- `Экспорт собственных иконок отпечатков`
+- `Импорт собственных иконок отпечатков`
+- `Автоматическая проверка обновлений`
+- `Поддержка динамических цветов приложения`
+
+---
 
 ## Скриншоты
-![Screenshot_2025-05-16-23-39-50-245_com rifsxd ksunext-edit](https://github.com/user-attachments/assets/2ee83fc7-b122-4b7c-8a8f-7158a0131a81)
-![Screenshot_2025-05-16-23-39-58-860_lockscreen-edit](https://github.com/user-attachments/assets/faa27282-f3ec-40fa-9bf9-489edd24e494)
+
+![Screenshot1](https://github.com/user-attachments/assets/2ee83fc7-b122-4b7c-8a8f-7158a0131a81)
+![Screenshot2](https://github.com/user-attachments/assets/faa27282-f3ec-40fa-9bf9-489edd24e494)
+
+---
+
+## Контакты
+
+Telegram: [@custombeta](https://t.me/custombeta) — баги, вопросы, предложения.
+
+---
+
+> [!CAUTION]
+> Модуль работает только на HyperOS. Использование на других прошивках не поддерживается.
+> 
