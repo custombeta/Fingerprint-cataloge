@@ -2,11 +2,11 @@
 
 <img src="/assets/fingerprint-logo.png" width="130" alt="logo">
 
-[![Latest Release](https://img.shields.io/github/v/release/custombeta/Fingerprint-cataloge?label=Release&color=blue&logo=github)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
+[![Release](https://img.shields.io/github/v/release/custombeta/Fingerprint-cataloge?label=Релиз&color=blue&logo=github)](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
 [![LSPosed](https://img.shields.io/badge/LSPosed-Module-orange?logo=android&logoColor=white)](https://github.com/LSPosed/LSPosed)
-[![Telegram](https://img.shields.io/badge/Telegram-Channel-blue?logo=Telegram&logoColor=white)](https://t.me/duchamppower)
+[![Telegram](https://img.shields.io/badge/Телеграмм-blue?logo=Telegram&logoColor=white)](https://t.me/duchamppower)
 
-Xposed модуль для MIUI/HyperOS с приложением-компаньоном для управления кастомными иконками сканера отпечатков пальца. Позволяет загружать, импортировать и применять собственные иконки отпечатка без перепрошивки.
+Xposed модуль для HyperOS с приложением, для управления кастомными иконками и анимациями сканера отпечатков пальца. Позволяет создавать, загружать, импортировать и применять собственные иконки отпечатка
 
 ---
 
@@ -15,7 +15,7 @@ Xposed модуль для MIUI/HyperOS с приложением-компань
 | | Требования |
 |---|---|
 | `LSPosed`  | `API 82+` |
-| `Прошивка`  | `HyperOS 1+` |
+| `Прошивка` | `HyperOS 1+` |
 | `Android версия` | `14+ (API 34+)` |
 
 ---
@@ -31,8 +31,8 @@ Xposed модуль для MIUI/HyperOS с приложением-компань
 
 - `Встроенная библиотека иконок и анимаций отпечатков`
 - `Создание новых иконок из .webp изображений`
-- `Экспорт собственных иконок отпечатков`
-- `Импорт собственных иконок отпечатков`
+- `Экспорт конфигураций отпечатков`
+- `Импорт конфигураций отпечатков`
 - `Автоматическая проверка обновлений`
 - `Поддержка динамических цветов приложения`
 
