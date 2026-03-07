@@ -1,4 +1,4 @@
-## Miuix X
+## Miuix
 
 A UI library for Compose Multiplatform.
 
