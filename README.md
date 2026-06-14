@@ -23,7 +23,7 @@ Xposed модуль на HyperOS, для кастомизации иконок �
 
 
 ## Установка
-1. Установите APK из [`Releases`](https://github.com/custombeta/Fingerprint-cataloge/releases/latest)
+1. Установите APK из [`Releases`](https://github.com/custombeta/fingerprint-cataloge/releases/latest)
 2. Активируйте модуль в `LSPosed`
 
 
