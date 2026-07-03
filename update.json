@@ -1,6 +1,6 @@
 {
-  "version": "1.2.9",
-  "versionCode": 129,
+  "version": "1.3.0",
+  "versionCode": 130,
   "apkUrl": "https://github.com/custombeta/fingerprint-cataloge/releases/latest/download/app-release.apk",
   "changelogUrl": "https://raw.githubusercontent.com/custombeta/fingerprint-cataloge/main/changelog.md"
 }
